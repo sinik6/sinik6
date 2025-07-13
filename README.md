@@ -3,14 +3,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50" />
+  <img src="https://i.ibb.co/gLCyDJT8/Chat-GPT-Image-13-de-jul-de-2025-18-22-19.png" width="240" />
 </p>
 
 <p align="center">
   <em>Transformando ideias em soluções reais, integrando ferramentas e automatizando o que ninguém quer fazer na mão.</em>
 </p>
 
----
 
 ###  Sobre mim
 
@@ -20,7 +19,6 @@ AINDA ESTOU APRENDENDO!
 
 Hoje foco em **TypeScript** e **Python**,  ideias malucas e fazer virar algo útil.
 
----
 
 ###  Tech Stack
 
@@ -33,7 +31,6 @@ Hoje foco em **TypeScript** e **Python**,  ideias malucas e fazer virar algo út
 - **Dashboards & UIs:** Streamlit, Google Sheets API  
 - **Dev Tools:** GitHub Actions, REST APIs, Figma
 
----
 
 ###  O que eu costumo fazer
 
@@ -42,8 +39,6 @@ Hoje foco em **TypeScript** e **Python**,  ideias malucas e fazer virar algo út
 ✅ Prototipagem de ideias e MVPs em tempo recorde  
 ✅ Experiências simples, diretas e funcionais pro usuário final  
 
-
----
 
 ###  Contato
 
@@ -58,7 +53,5 @@ Hoje foco em **TypeScript** e **Python**,  ideias malucas e fazer virar algo út
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
 
 <sub><center>"Código bom e criativo"</center></sub>
