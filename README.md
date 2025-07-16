@@ -13,14 +13,14 @@
 
 ###  Sobre mim
 
-Sou um desenvolvedor que une **criatividade** com **execução técnica**.  
-Curto resolver pepino e conectar sistemas como se fosse LEGO digital. Nada de soluções meia-boca — aqui o código é limpo, funcional e com propósito.
+**Criatividade** &   
+Curto resolver pepino e conectar sistemas
 AINDA ESTOU APRENDENDO!
 
 Hoje foco em **TypeScript** e **Python**,  ideias malucas e fazer virar algo útil.
 
 
-###  Tech Stack
+s
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,python,nodejs,express,streamlit,firebase,figma,git,github,linux" />
@@ -30,14 +30,6 @@ Hoje foco em **TypeScript** e **Python**,  ideias malucas e fazer virar algo út
 - **Automação:** Google Apps Script, Puppeteer  
 - **Dashboards & UIs:** Streamlit, Google Sheets API  
 - **Dev Tools:** GitHub Actions, REST APIs, Figma
-
-
-###  O que eu costumo fazer
-
-✅ Integrações de sistemas e automações que **poupam tempo e paciência**  
-✅ Dashboards com dados que fazem sentido (sem enrolação)  
-✅ Prototipagem de ideias e MVPs em tempo recorde  
-✅ Experiências simples, diretas e funcionais pro usuário final  
 
 
 ###  Contato
