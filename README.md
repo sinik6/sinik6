@@ -14,10 +14,10 @@
 ###  Sobre mim
 
 **Criatividade** &   
-Curto resolver pepino e conectar sistemas
-AINDA ESTOU APRENDENDO!
+Curto resolver problemas!
 
-Hoje foco em **TypeScript** e **Python**,  ideias malucas e fazer virar algo útil.
+
+Hoje foco em **TypeScript**, **Python**, **Java** ideias malucas e fazer virar algo útil.
 
 
 s
@@ -46,4 +46,4 @@ s
   </a>
 </p>
 
-<sub><center>"Código bom e criativo"</center></sub>
+
