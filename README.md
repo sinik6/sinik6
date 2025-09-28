@@ -10,7 +10,6 @@
   <em>Transformando ideias em soluções reais, integrando ferramentas e automatizando o que ninguém quer fazer na mão.</em>
 </p>
 
-
 ###  Sobre mim
 
 **Criatividade** &   
@@ -19,8 +18,6 @@ Curto resolver problemas!
 
 Hoje foco em **TypeScript**, **Python**, **Java** ideias malucas e fazer virar algo útil.
 
-
-s
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,python,nodejs,express,streamlit,firebase,figma,git,github,linux" />
