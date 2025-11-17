@@ -7,40 +7,18 @@
 </p>
 
 <p align="center">
-  <em>Transformando ideias em soluções reais, integrando ferramentas e automatizando o que ninguém quer fazer na mão.</em>
+  <em> Ideias e soluções reais</em>
 </p>
 
-###  Sobre mim
-
-**Criatividade** &   
-Curto resolver problemas!
 
 
-Hoje foco em **TypeScript**, **Python**, **Java** ideias malucas e fazer virar algo útil.
-
+ **TypeScript**, **Python**, **Java** 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,python,nodejs,express,streamlit,firebase,figma,git,github,linux" />
 </p>
 
-- **Linguagens:** TypeScript, Python  
-- **Automação:** Google Apps Script, Puppeteer  
-- **Dashboards & UIs:** Streamlit, Google Sheets API  
-- **Dev Tools:** GitHub Actions, REST APIs, Figma
 
 
-###  Contato
-
-<p align="center">
-  <a href="mailto:vandilsonferreirajr@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/vandilsonjr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/sinik6">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 
